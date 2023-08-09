@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/python3
 str1 = "Holberton"
 str2 = "School!"
 #The two strings are added using print
