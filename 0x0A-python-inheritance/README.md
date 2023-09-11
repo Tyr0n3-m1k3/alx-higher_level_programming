@@ -1,0 +1,2 @@
+THIS IS THE 0x0A-python-inheritance ALX PROJECT
+DONE BY TYRONE MIKE.
