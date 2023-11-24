@@ -1,0 +1,2 @@
+THIS IS THE 0x12-javascript-warm_up ALX PROJECT
+DONE BY TYRONE MIKE.
